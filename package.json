@@ -1,0 +1,15 @@
+{
+  "name": "witamprog",
+  "version": "0.0.1",
+  "description": "bot do porad",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ja",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.9.2"
+  }
+}
